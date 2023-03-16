@@ -35,11 +35,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 基于屏幕识别
-    description                           : 通过识别游戏字幕，视频字幕
+    description                           : 基于屏幕识别游戏字幕，视频字幕并实时翻译
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 支持多种翻译引擎
+    description                           : 支持内置、deepl和离线翻译
     fontawesome_icon_name                 : mobile
 
 #   - title                                 : Video Support
