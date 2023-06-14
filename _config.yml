@@ -1,5 +1,5 @@
 #page title
-page_title                                : Screen Translator                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : iTranscreen                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1663139919                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -9,9 +9,9 @@ appstore_link                             :                                     
 playstore_link                            :                                           # Enter Google Play Store URL.
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Screen Translator                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : iTranscreen                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Screen Translator 是一款基于屏幕识别的翻译App，它可以帮助你翻译手机游戏 如乙女游戏等，也可以实时翻译视频字幕。目前其具备内置翻译、deepl翻译、以及视频离线翻译。
+app_description                           : iTranscreen 是一款基于屏幕识别的翻译App，它可以帮助你翻译手机游戏 如乙女游戏等，也可以实时翻译视频字幕。目前其具备多种翻译引擎。
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
