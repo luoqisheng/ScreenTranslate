@@ -18,13 +18,13 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : luoqisheng                                
-your_link                                 : https://luoqisheng.github.io/ScreenTranslate/                     
-your_city                                 : Guangzhou                                
+# your_name                                 : luoqisheng                                
+# your_link                                 : https://luoqisheng.github.io/ScreenTranslate/                     
+# your_city                                 : Guangzhou                                
 email_address                             : screentranslate.ios@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : 
+twitter_username                          : iTranscreen
 github_username                           : 
 youtube_username                          :
 
