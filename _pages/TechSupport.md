@@ -1,3 +1,11 @@
+---
+layout: page
+title: Tech Support
+include_in_header: false
+---
+
+# Tech Support
+
 If you have any questions, please leave a message or send me an email. Thank you!
 
 Email：screentranslate.ios@gmail.com
