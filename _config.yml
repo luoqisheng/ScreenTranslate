@@ -51,7 +51,7 @@ features                                  :
 
   - title                                 : 支持快捷指令
     description                           : 无需打开App，也可以翻译屏幕，译文回填更直观
-    fontawesome_icon_name                 : flash
+    fontawesome_icon_name                 : bolt
   
   - title                                 : 出国旅行神器
     description                           : 通过屏幕翻译可以翻译打车，订餐，酒店等App，深度体验当地文化
