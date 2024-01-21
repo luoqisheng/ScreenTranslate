@@ -35,23 +35,23 @@ features                                  :
 
   - title                                 : 基于屏幕识别
     description                           : 基于屏幕识别游戏字幕，视频字幕并实时翻译
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : expand
     
   - title                                 : 支持多种翻译引擎
-    description                           : 支持Google、彩云、ChatGPT翻译
-    fontawesome_icon_name                 : mobile
+    description                           : 支持Google、百度、ChatGPT翻译
+    fontawesome_icon_name                 : language
 
   - title                                 : 乙女游戏、生肉视频神器
     description                           : 畅玩国外乙游，英乙、日乙、韩乙不再困难
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : gamepad
   
   - title                                 : 漫画翻译
-    description                           : 实时漫画翻译，文字回填
+    description                           : 实时漫画翻译，文字回填, 日漫韩漫无需等待汉化
     fontawesome_icon_name                 : book
   
   - title                                 : 出国旅行神器
     description                           : 通过屏幕翻译可以翻译打车，订餐，酒店等App，深度体验当地文化
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : plane
 
 #   - title                                 : Smart App Banner
 #     description                           : Display a smart app banner on iOS devices.
