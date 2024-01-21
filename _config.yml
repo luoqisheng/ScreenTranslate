@@ -45,6 +45,10 @@ features                                  :
     description                           : 畅玩国外乙游，英乙、日乙、韩乙不再困难
     fontawesome_icon_name                 : play-circle
   
+  - title                                 : 漫画翻译
+    description                           : 实时漫画翻译，文字回填
+    fontawesome_icon_name                 : book
+  
   - title                                 : 出国旅行神器
     description                           : 通过屏幕翻译可以翻译打车，订餐，酒店等App，深度体验当地文化
     fontawesome_icon_name                 : star
