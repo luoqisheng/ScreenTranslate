@@ -34,7 +34,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 基于屏幕识别
-    description                           : 基于屏幕识别游戏字幕，视频字幕并实时翻译
+    description                           : 基于屏幕识别游戏字幕, 漫画字幕，视频字幕并实时翻译
     fontawesome_icon_name                 : expand
     
   - title                                 : 支持多种翻译引擎
@@ -48,6 +48,10 @@ features                                  :
   - title                                 : 漫画翻译
     description                           : 实时漫画翻译，文字回填, 日漫韩漫无需等待汉化
     fontawesome_icon_name                 : book
+
+  - title                                 : 支持快捷指令
+    description                           : 无需打开App，也可以翻译屏幕，译文回填更直观
+    fontawesome_icon_name                 : flash
   
   - title                                 : 出国旅行神器
     description                           : 通过屏幕翻译可以翻译打车，订餐，酒店等App，深度体验当地文化
